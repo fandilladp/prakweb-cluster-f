@@ -1,0 +1,51 @@
+#header{
+    background-color: #E93A14;
+}
+#navbar{
+    padding: 10px;
+    background-color: #E7C998;
+}
+#navbar a{
+    padding-right: 10px;  
+}
+#main{
+    background-color: white;
+    width: 100%;
+    height: 450px;
+}
+#isi{
+    background-color: white;
+    width: 100%;
+    height: 400px;
+}
+.sidebar{
+    width: 15%;
+    height: 415px;
+    background-color: #E93A14;
+    float: left;
+}
+.content{
+    width: 85%;
+    height: 415px;
+    background-color: #EFEFEF;
+    float: left;
+}
+.footer{
+    background-color: grey;
+    width: 100%;
+    height: 40px;
+}
+.footer p{
+    padding: 10px;
+}
+.image{
+    margin-left: 250px;
+    width: 500px;
+}
+h3{
+    padding: 10px;
+}
+.deskripsi{
+    color: white;
+    text-align: center;
+}
