@@ -1,0 +1,56 @@
+$warna1:#E93A14;
+$warna2: #E7C998;
+$warna3:white;
+
+#header{
+    background-color: $warna1;
+}
+#navbar{
+    padding: 10px;
+    background-color: $warna2;
+    a{
+        padding-right: 10px;  
+    }
+}
+
+#main{
+    background-color: $warna3;
+    width: 100%;
+    height: 450px;
+}
+#isi{
+    background-color: $warna3;
+    width: 100%;
+    height: 400px;
+}
+.sidebar{
+    width: 15%;
+    height: 415px;
+    background-color: $warna1;
+    float: left;
+}
+.content{
+    width: 85%;
+    height: 415px;
+    background-color: #EFEFEF;
+    float: left;
+}
+.footer{
+    background-color: grey;
+    width: 100%;
+    height: 40px;
+    p{
+        padding: 10px;
+    }
+}
+.image{
+    margin-left: 250px;
+    width: 500px;
+}
+h3{
+    padding: 10px;
+}
+.deskripsi{
+    color: white;
+    text-align: center;
+}
